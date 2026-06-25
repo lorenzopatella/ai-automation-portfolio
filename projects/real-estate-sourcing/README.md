@@ -32,6 +32,8 @@ The workflow automates the repetitive parts of sourcing while keeping humans in 
 
 See [`architecture.md`](./architecture.md) for the high-level system design.
 
+For a concrete, redacted example of the workflow in action — a model run that fetches, structures, and prioritizes a batch of opportunities for human review — see [`demo-scenario.md`](./demo-scenario.md).
+
 ## What This Project Demonstrates
 
 - Ability to translate a concrete business problem into an automation workflow
