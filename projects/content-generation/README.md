@@ -33,6 +33,8 @@ The workflow structures content production into a repeatable pipeline while keep
 
 See [`architecture.md`](./architecture.md) for the high-level system design.
 
+For a concrete example of the workflow in action — turning a short natural-language request into a presentation-ready product image — see [`demo-scenario.md`](./demo-scenario.md).
+
 ## What This Project Demonstrates
 
 - Workflow orchestration for repeatable content production
