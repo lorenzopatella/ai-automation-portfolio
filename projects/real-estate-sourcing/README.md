@@ -39,6 +39,7 @@ See [`architecture.md`](./architecture.md) for the high-level system design.
 - Pragmatic use of AI to handle unstructured information
 - Lead qualification and prioritization logic
 - Awareness of confidentiality and the limits of automation
+- Ability to work on ambiguous, non-technical business problems and turn them into structured automation logic that a client can understand and review.
 
 ## Stack Used
 
