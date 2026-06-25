@@ -9,7 +9,6 @@ This scenario shows a simple, concrete example of the content-generation workflo
 
 The user provides only the image and a short sentence in plain language. No prompt writing, technical parameters, or AI knowledge is required.
 
-<!-- Add the input image at the path below (e.g. assets/redacted-screenshots/content-generation-demo-input.jpg) -->
 ![Input — raw product photo of trousers in a showroom setting](../../assets/redacted-screenshots/content-generation-demo-input.jpg)
 
 ## What the System Does
@@ -29,7 +28,6 @@ The exact prompt structure and instructions are intentionally not shown here (se
 
 The result is a cleaner, more **presentation-ready** product image: the trousers are shown on a plain, neutral background, well-presented and free of the original background distractions, while remaining visually faithful to the original garment. The transformation targets presentation and context, not the product itself.
 
-<!-- Add the output image at the path below (e.g. assets/redacted-screenshots/content-generation-demo-output.jpg) -->
 ![Output — cleaner, presentation-ready product image of the same trousers](../../assets/redacted-screenshots/content-generation-demo-output.jpg)
 
 ## Why This Matters
