@@ -44,11 +44,13 @@ See [`architecture.md`](./architecture.md) for the high-level system design.
 
 ## Stack Used
 
-- **n8n** — workflow orchestration (no-code / low-code)
+- **n8n** — workflow orchestration and automation logic
 - **APIs and webhooks** — connecting tools and moving content through the pipeline
-- **LLMs (ChatGPT / Claude / Gemini)** — text generation and request interpretation
-- **AI image / visual tools** — supporting image and visual content (used pragmatically)
-- **GitHub / Cursor** — versioning and development support
+- **LLMs (ChatGPT / Claude / Gemini)** — request interpretation, text generation and workflow reasoning
+- **AI image / visual tools** — supporting image generation, transformation and visual production workflows
+- **GitHub Codespaces** — cloud development environment used to structure and iterate on the project
+- **Claude Code / Codex** — AI coding assistants used for repository work, documentation, debugging support and workflow logic iteration
+- **GitHub** — versioning, documentation and project organization
 
 See the repository-level [`tools-and-stack.md`](../../tools-and-stack.md) for the broader toolset.
 
