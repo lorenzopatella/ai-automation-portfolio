@@ -19,7 +19,7 @@ What I bring:
 - Comfort working across modern AI and automation tooling
 - A focus on practical outcomes over theoretical complexity
 
-See [`tools-and-stack.md`](./tools-and-stack.md) for the full tooling overview and [`availability-and-mission-framework.md`](./availability-and-mission-framework.md) for the types of missions I take on.
+See [`tools-and-stack.md`](./tools-and-stack.md) for the full tooling overview.
 
 ---
 
@@ -79,7 +79,6 @@ This portfolio is built to support collaboration on missions such as:
 ai-automation-portfolio/
 ├── README.md
 ├── tools-and-stack.md
-├── availability-and-mission-framework.md
 ├── projects/
 │   ├── real-estate-sourcing/
 │   │   ├── README.md
